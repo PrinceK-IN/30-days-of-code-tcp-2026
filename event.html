@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event details</title>
+</head>
+<body>
+    
+    <h1><u>Turing Club of Programmers Workshop 2026</u></h1>
+
+    <section id="schedule">
+        <h2>Workshop Schedule</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Activity</th>
+                    <th>Venue</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>09:00 AM</td>
+                    <td>Computer Languages</td>
+                    <td>Architecture Auditorium</td>
+                </tr>
+                <tr>
+                    <td>11:45 AM</td>
+                    <td>Web Development</td>
+                    <td>Hira Hall</td>
+                </tr>
+                <tr>
+                    <td>01:15 PM</td>
+                    <td>Data Structures & Algorithms</td>
+                    <td>CCC Lab</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="registration">
+        <h2>Register now for the Workshop</h2>
+
+        <form action="submit_form.php" method="POST">
+
+            <p>
+                <label for="full-name">Full Name:</label>
+                <input type="text" id="full-name" name="full-name" required>
+            </p>
+
+            <p>
+                <label for="user-email">Email Address:</label>
+                <input type="email" id="user-email" name="user-email" required>
+            </p>
+
+            <p>
+                <label for="phone-number">Phone Number:</label>
+                <input type="number" id="phone-number" name="phone-number" min="6000000000" max="9999999999">
+            </p>
+
+            <p>
+                <label for="event-date">Preferred Date:</label>
+                <input type="date" id="event-date" name="event-date">
+            </p>
+
+            <fieldset>
+                <legend>Ticket Type:</legend>
+                <input type="radio" id="standard" name="ticket" value="standard">
+                <label for="standard">Standard</label>
+                <br>
+
+                <input type="radio" id="premium" name="ticket" value="premium">
+                <label for="premium">Premium</label>
+                <br>
+
+                <input type="radio" id="vip" name="ticket" value="vip">
+                <label for="vip">VIP</label>
+            </fieldset>
+
+            <br>
+
+            <fieldset>
+                <legend>Workshop Preferences</legend>
+                <input type="checkbox" id="cp" name="workshop" value="cp">
+                <label for="cp">Computer Languages</label>
+                <br>
+                
+                <input type="checkbox" id="webdev" name="workshop" value="webdev">
+                <label for="webdev">Web Development</label>
+                <br>
+                
+                <input type="checkbox" id="dsa" name="workshop" value="dsa">
+                <label for="dsa">Data Structures & Algorithms</label>
+            </fieldset>
+
+            <p>
+                <label for="comments">Comments:</label>
+                <br>
+                <textarea id="comments" name="comments" rows="6" cols="200" placeholder="Tell us more..."></textarea>
+            </p>
+
+            <button type="submit">Register</button>
+        </form>
+    </section>
+</body>
+</html>
