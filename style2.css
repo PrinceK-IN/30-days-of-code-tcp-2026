@@ -283,7 +283,7 @@ footer {
     top: -15px;
     left: 50%;
     transform: translateX(-50%);
-    background: linear-gradient(45deg, var(--primary), var(--secondary));
+    background: linear-gradient(45deg, var(--primary), var(--secondary)); /* Matching your buttons */
     color: white;
     padding: 6px 16px;
     border-radius: 10px;
