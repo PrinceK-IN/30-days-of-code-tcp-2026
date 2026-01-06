@@ -19,4 +19,4 @@ int findMinPath(vector<vector<int> > &V, int r, int c) {
 // Fibonacci Series in which the time complexity is very high due 
 // to its exponential nature.
 // the tree depth is R + C
-// So it's worst case time complexity is 2^(R + C)
+// So it's worst case time complexity is O(2^(R + C))
