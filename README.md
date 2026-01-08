@@ -13,5 +13,5 @@
 # Day 7 #
 <img width="1920" height="1200" alt="Screenshot 2026-01-07 072916" src="https://github.com/user-attachments/assets/74166812-40d4-42a9-8d1f-f3fedc8a7b60" />
 
-#Day 8 #
+# Day 8 #
 <img width="1920" height="1200" alt="Screenshot 2026-01-08 065232" src="https://github.com/user-attachments/assets/e1921595-aa96-4318-8734-767a43f815be" />
