@@ -15,3 +15,6 @@
 
 # Day 8 #
 <img width="1920" height="1200" alt="Screenshot 2026-01-08 065232" src="https://github.com/user-attachments/assets/e1921595-aa96-4318-8734-767a43f815be" />
+
+# Day 9 #
+<img width="1920" height="1200" alt="Screenshot 2026-01-09 074713" src="https://github.com/user-attachments/assets/069fc01c-92fb-4efa-adcc-9d7bd40f2f4e" />
