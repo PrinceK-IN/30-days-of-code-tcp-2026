@@ -20,4 +20,7 @@
 <img width="1920" height="1200" alt="Screenshot 2026-01-09 074713" src="https://github.com/user-attachments/assets/069fc01c-92fb-4efa-adcc-9d7bd40f2f4e" />
 
 # Day 10 #
-<img width="1920" height="1140" alt="Screenshot 2026-01-10 081653" src="https://github.com/user-attachments/assets/e79aa4ee-a89e-4e69-8a39-e1c543eee27e" />
+<img width="1920" height="1140" alt="Screenshot 2026-01-11 072837" src="https://github.com/user-attachments/assets/553371f1-9dd7-4143-a386-f8910b8a0134" />
+
+# Day 11 #
+<img width="1920" height="1140" alt="Screenshot 2026-01-11 072110" src="https://github.com/user-attachments/assets/2ba91616-05ea-4ef7-89e4-d70853cb7801" />
