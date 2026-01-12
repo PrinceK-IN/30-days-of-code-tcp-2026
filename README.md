@@ -24,3 +24,6 @@
 
 # Day 11 #
 <img width="1920" height="1140" alt="Screenshot 2026-01-11 072110" src="https://github.com/user-attachments/assets/2ba91616-05ea-4ef7-89e4-d70853cb7801" />
+
+# Day 12 #
+<img width="1920" height="1140" alt="Screenshot 2026-01-12 073036" src="https://github.com/user-attachments/assets/a093c0ff-dbd1-4002-86ac-d3b05356a715" />
