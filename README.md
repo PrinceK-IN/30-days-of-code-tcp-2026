@@ -30,3 +30,6 @@
 
 # Day 13 #
 <img width="1920" height="1140" alt="Screenshot 2026-01-13 213837" src="https://github.com/user-attachments/assets/9f7cbf16-bdf6-484a-b184-f335c62ca360" />
+
+# Day 14 #
+<img width="1920" height="1140" alt="Screenshot 2026-01-14 215639" src="https://github.com/user-attachments/assets/38d29e29-c36c-474c-9928-6024914dc91b" />
