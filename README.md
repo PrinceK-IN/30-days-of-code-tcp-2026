@@ -42,3 +42,6 @@
 
 # Day 17 #
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/f15bc63b-2632-438b-87b9-9d18623ec1bf" />
+
+# Day 18 #
+<img width="1920" height="1140" alt="Screenshot 2026-01-18 230249" src="https://github.com/user-attachments/assets/3f0f5e5f-7493-407f-8577-6381aa9eb194" />
