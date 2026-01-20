@@ -48,3 +48,6 @@
 
 # Day 19 #
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/170ec930-fdff-408c-8961-b3d85a9c3989" />
+
+# Day 20 #
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/9c9bbf01-7a7a-484a-9b0f-291f1118df58" />
