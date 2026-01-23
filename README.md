@@ -57,3 +57,6 @@
 
 # Day 22 #
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/bcba95e9-0c35-418f-862d-41cddbb5cd48" />
+
+# Day 23 #
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/a884666e-0c5f-4d2e-b0a5-e92d6e9bf5ad" />
