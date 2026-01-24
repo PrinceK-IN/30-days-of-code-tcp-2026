@@ -60,3 +60,6 @@
 
 # Day 23 #
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/a884666e-0c5f-4d2e-b0a5-e92d6e9bf5ad" />
+
+# Day 24 #
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/af9bc038-3b81-41b6-a8ce-6928f0b3974d" />
