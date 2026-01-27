@@ -69,3 +69,6 @@
 
 # Day 26 #
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/bbd6c43d-1f3e-4fc7-bb2c-4a242ca83f8c" />
+
+# Day 27 #
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/8227cd80-2908-4489-a77e-738db0700028" />
